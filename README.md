@@ -42,3 +42,8 @@ Client Applications
 | **Email** | SMTP with TLS (HTML incident alerts) |
 | **Container** | Docker + Docker Compose |
 | **Proxy** | Nginx |
+
+<img width="2990" height="1678" alt="8775DCCB-BB01-4255-8A19-68C7EBBBD19E" src="https://github.com/user-attachments/assets/216ac0cd-395e-436d-b01a-31469d24be85" />
+
+<img width="2990" height="1702" alt="2393B303-618E-48E7-BDE8-DDE0F05CAD41" src="https://github.com/user-attachments/assets/412e6c49-d1ea-4a03-894d-47fdec1c828f" />
+
